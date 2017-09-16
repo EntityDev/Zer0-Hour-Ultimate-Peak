@@ -1,2 +1,2 @@
 # Zero-Hour-Super-Swap
-A collection of enemy swaps for Borderlands 2
+A collection of enemy swapping scripts for Borderlands 2
